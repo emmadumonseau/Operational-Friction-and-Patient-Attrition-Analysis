@@ -1,5 +1,11 @@
 # Operational Friction & Patient Attrition Analysis
 
+## Project Directory
+* **Tableau Dashboard:** [View Live Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/emma.dumonseau/viz/OperationalFrictionPatientAttritionAnalysis/Dashboard1)
+* **Python Notebook:** [View Python Cleaning & EDA Code](https://github.com/emmadumonseau/Operational-Friction-and-Patient-Attrition-Analysis/blob/main/Patient%20Churn%20Python%20Notebook.ipynb)
+* **Cleaned Dataset:** [Access Cleaned Dataset (Excel)](https://github.com/emmadumonseau/Operational-Friction-and-Patient-Attrition-Analysis/blob/main/patient_attrition_cleaned_dataset.xlsx)
+
+
 ## Executive Summary
 Patient drop-off directly impacts clinical outcomes and organizational financial stability. This project investigates the structural and operational drivers of patient loss across a multi-specialty health system. By synthesizing clinical satisfaction scores, appointment attendance history, insurance models, and patient travel distance, this interactive Tableau dashboard identifies **$451,052 in total revenue at risk** across **705 high-risk patients**, establishing a benchmark system-wide **Patient Attrition Rate of 68.4%**.
 
